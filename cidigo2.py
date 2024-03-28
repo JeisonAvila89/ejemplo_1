@@ -1,4 +1,4 @@
 nombre = "Juancito"
-Apellido = "Maduro"
+apellido = "Maduro"
 
-print(Buen dia Sr. + nombre+ " " + apellido)
+print("Buen dia Sr. "+ nombre+ " " + apellido)
